@@ -1,5 +1,6 @@
 # personal-website
-👋 Hey!!
+👋 Hello! नमस्ते!
+
 this is the repository for my personal website
 ```js
 const manasvini_personal website = {
